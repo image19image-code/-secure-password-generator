@@ -1,0 +1,8 @@
+{
+  "name": "Secure Password Generator",
+  "description": "Generate strong, random passwords instantly. Free, private and client-side password generator.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
